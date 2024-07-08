@@ -1,0 +1,17 @@
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\bin\Debug\net7.0-windows\CopilotWindowApp.exe
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\bin\Debug\net7.0-windows\CopilotWindowApp.deps.json
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\bin\Debug\net7.0-windows\CopilotWindowApp.runtimeconfig.json
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\bin\Debug\net7.0-windows\CopilotWindowApp.dll
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\bin\Debug\net7.0-windows\CopilotWindowApp.pdb
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.Form1.resources
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.Form2.resources
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.csproj.GenerateResource.cache
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.AssemblyInfoInputs.cache
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.AssemblyInfo.cs
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.csproj.CoreCompileInputs.cache
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.dll
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\refint\CopilotWindowApp.dll
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.pdb
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\CopilotWindowApp.genruntimeconfig.cache
+D:\WindowApplications\alcargo\CopilotWindowApp_sl\CopilotWindowApp\obj\Debug\net7.0-windows\ref\CopilotWindowApp.dll

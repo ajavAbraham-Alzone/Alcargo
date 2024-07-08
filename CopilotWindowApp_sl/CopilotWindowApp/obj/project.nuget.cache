@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVtm/fF8RfgJllFvsJ7Ri2KzwB9vTFBf6Oupv7ijTjwTNz/5AmymPtcAj4BoS9PNsFzqEWfmm/qcLSzS6vob1g==",
+  "success": true,
+  "projectFilePath": "D:\\WindowApplications\\alcargo\\CopilotWindowApp_sl\\CopilotWindowApp\\CopilotWindowApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlzoneUser1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\AlzoneUser1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\AlzoneUser1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\AlzoneUser1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
